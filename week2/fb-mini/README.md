@@ -44,3 +44,6 @@ In the past people have had issues connecting to the database and the solution h
 "objection": "^2.1.3",
 
 "pg": "^8.0.3"
+
+## Additional notes:
+node modules is not included.
